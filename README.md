@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RedRedRyan
-- 👀 I’m interested in Game Design
+- 👀 Pure Math Major I’m interested in Game Design
 - 🌱 On Unity Engine
 - 📫 How to reach me @ryankipkorir2002@gmail.com
 - ⚡ Company: Ystudios
