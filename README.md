@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RedRedRyan
-- 👀 Pure Math Major I’m interested in Game Design
-- 🌱 On Unity Engine
+- 👋 Hi, I’m 🟥RedRedRyan🟥
+- ♾️ Math Geek
+- 🎮 Game Dev On Unity Engine
 - 📫 How to reach me @ryankipkorir2002@gmail.com
-- ⚡ Company: Ystudios
+- 🔧 Company: Ystudios Co-founder
 
 <!---
 RedRedRyan/RedRedRyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
