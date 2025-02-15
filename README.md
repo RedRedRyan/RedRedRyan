@@ -2,7 +2,7 @@
 - ♾️ Math Geek
 - 🎮 Game Dev On Unity Engine
 - 📫 How to reach me @ryankipkorir2002@gmail.com
-- 🔧 Company: Ystudios Co-founder
+- 🔧 Ystudios Co-founder
 
 <!---
 RedRedRyan/RedRedRyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
