@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 🟥RedRedRyan🟥
+🟥RedRedRyan🟥
 - ♾️ Math Geek
 - 🎮 Game Dev On Unity Engine
 - 📫 How to reach me @ryankipkorir2002@gmail.com
