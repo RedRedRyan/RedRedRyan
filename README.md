@@ -21,13 +21,16 @@
 
 ---
 
-## 🔥 **Current Projects**  
-```diff
-+ 🎮 [RaveTown] - Web3 generation meets Gaming 
-! 📊 R Data Viz Project - Turning chaos into beautiful patterns  
-# 🏗️ YStudios - Revolutionizing technomedia
+### Enhanced Version (With Styling)
+```markdown
 
+```mermaid
 graph LR
-    A[♾️ Math Geek] --> B[🎮 Game Dev]
-    B --> C[🔮 Code Sorcerer]
-    C --> D[🚀 YStudios Co-Founder]
+    A[♾️ Math Geek]:::math --> B[🎮 Game Dev]:::game
+    B --> C[🔮 Code Sorcerer]:::code
+    C --> D[🚀 YStudios Co-Founder]:::studio
+    
+    classDef math fill:#ff9ff3,stroke:#f368e0,color:#000
+    classDef game fill:#feca57,stroke:#ff9f43,color:#000
+    classDef code fill:#1dd1a1,stroke:#10ac84,color:#000
+    classDef studio fill:#54a0ff,stroke:#2e86de,color:#000
