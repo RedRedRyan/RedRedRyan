@@ -21,16 +21,7 @@
 
 ---
 
-### Enhanced Version (With Styling)
-```markdown
+<div align="center">
 
-```mermaid
-graph LR
-    A[♾️ Math Geek]:::math --> B[🎮 Game Dev]:::game
-    B --> C[🔮 Code Sorcerer]:::code
-    C --> D[🚀 YStudios Co-Founder]:::studio
-    
-    classDef math fill:#ff9ff3,stroke:#f368e0,color:#000
-    classDef game fill:#feca57,stroke:#ff9f43,color:#000
-    classDef code fill:#1dd1a1,stroke:#10ac84,color:#000
-    classDef studio fill:#54a0ff,stroke:#2e86de,color:#000
+![Flowchart](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggTFJcbiAgICBBW+KfjjogTWF0aCBHZWVrXSAtLT4gQlzilZ4gR2FtZSBEZXZcbiAgICBCIC0tPiBDW-KfjjogQ29kZSBTb3JjZXJlcl1cbiAgICBDIC0tPiBEW-KfqDogWVN0dWRpb3MgQ28tRm91bmRlcl1cbiAgICBcbiAgICBzdHlsZSBBIGZpbGw6I2ZmOWZmMyxzdHJva2U6I2YzNjhlMFxuICAgIHN0eWxlIEIgZmlsbDojZmVjYTU3LHN0cm9rZTojZmY5ZjQzXG4gICAgc3R5bGUgQyBmaWxsOiMxZGQxYTEsc3Ryb2tlOiMxMGFjODRcbiAgICBzdHlsZSBEIGZpbGw6IzU0YTBmZixzdHJva2U6IzJlODZkZSIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In0sInVwZGF0ZUVkaXRvciI6ZmFsc2V9?type=png)
+</div>
