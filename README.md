@@ -1,5 +1,5 @@
 # 🚀 **🟥 RedRedRyan 🟥**  
-### *Math Magician • Game Dev Wizard • Data Alchemist*  
+### *Math Magician • Data Alchemist • Game Dev *  
 
 <div align="center">
   
