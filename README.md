@@ -4,7 +4,7 @@
 <div align="center">
   
 ![Header GIF](https://github.com/RedRedRyan/RedRedRyan/blob/main/assets/tech-banner.gif?raw=true)  
-*(Hover/Tap for surprise!)*  
+*(Ystudios)*  
 
 </div>
 
