@@ -21,7 +21,11 @@
 
 ---
 
+## 📫 **Let's Connect**
+
 <div align="center">
 
-![Flowchart](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggTFJcbiAgICBBW+KfjjogTWF0aCBHZWVrXSAtLT4gQlzilZ4gR2FtZSBEZXZcbiAgICBCIC0tPiBDW-KfjjogQ29kZSBTb3JjZXJlcl1cbiAgICBDIC0tPiBEW-KfqDogWVN0dWRpb3MgQ28tRm91bmRlcl1cbiAgICBcbiAgICBzdHlsZSBBIGZpbGw6I2ZmOWZmMyxzdHJva2U6I2YzNjhlMFxuICAgIHN0eWxlIEIgZmlsbDojZmVjYTU3LHN0cm9rZTojZmY5ZjQzXG4gICAgc3R5bGUgQyBmaWxsOiMxZGQxYTEsc3Ryb2tlOiMxMGFjODRcbiAgICBzdHlsZSBEIGZpbGw6IzU0YTBmZixzdHJva2U6IzJlODZkZSIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In0sInVwZGF0ZUVkaXRvciI6ZmFsc2V9?type=png)
+[![Email Shield](https://img.shields.io/badge/EMAIL-ryankipkorir2002%40gmail.com-important?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ryankipkorir2002@gmail.com)](mailto:ryankipkorir2002@gmail.com)  
+*(Click the badge to email me directly!)*  
+
 </div>
