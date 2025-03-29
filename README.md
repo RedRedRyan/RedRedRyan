@@ -1,10 +1,33 @@
-🟥RedRedRyan🟥
-- ♾️ Math Geek
-- 🎮 Game Dev On Unity Engine
-- 📫 How to reach me @ryankipkorir2002@gmail.com
-- 🔧 Ystudios Co-founder
+# 🚀 **🟥 RedRedRyan 🟥**  
+### *Math Magician • Game Dev Wizard • Data Alchemist*  
 
-<!---
-RedRedRyan/RedRedRyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  
+![Header GIF](https://github.com/RedRedRyan/RedRedRyan/blob/main/assets/tech-banner.gif?raw=true)  
+*(Hover/Tap for surprise!)*  
+
+</div>
+
+---
+
+## 🛠️ **Tech Arsenal**  
+<div align="center">
+  
+| **Languages** | **Frameworks/Engines** | **Tools** |
+|--------------|-----------------------|----------|
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+
+</div>
+
+---
+
+## 🔥 **Current Projects**  
+```diff
++ 🎮 [RaveTown] - Web3 generation meets Gaming 
+! 📊 R Data Viz Project - Turning chaos into beautiful patterns  
+# 🏗️ YStudios - Revolutionizing technomedia
+
+graph LR
+    A[♾️ Math Geek] --> B[🎮 Game Dev]
+    B --> C[🔮 Code Sorcerer]
+    C --> D[🚀 YStudios Co-Founder]
