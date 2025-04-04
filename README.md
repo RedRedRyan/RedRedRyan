@@ -1,31 +1,54 @@
-# 🚀 **🟥 RedRedRyan 🟥**  
-### *Math Magician • Data Alchemist • Game Dev *  
+# RedRedRyan's GitHub Profile
 
 <div align="center">
-  
-![Header GIF](https://github.com/RedRedRyan/RedRedRyan/blob/main/assets/tech-banner.gif?raw=true)  
-*(Ystudios)*  
-
+  <h1>RedRedRyan</h1>
+  <p>ryankipkorir@gmail.com</p>
 </div>
 
----
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    overflow: hidden;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
 
-## 🛠️ **Tech Arsenal**  
-<div align="center">
-  
-| **Languages** | **Frameworks/Engines** | **Tools** |
-|--------------|-----------------------|----------|
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+  .wave {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjRkYwMDAwIiBkPSJNNTEyIDUxMlYwaC01MTJ2NTEyaDUxMnoiLz48L3N2Zz4=') repeat-x;
+    background-size: 1000px 100px;
+    animation: wave 7s linear infinite;
+    z-index: -1;
+  }
 
-</div>
+  @keyframes wave {
+    0% { background-position: 0 0; }
+    100% { background-position: 1000px 0; }
+  }
 
----
+  .content {
+    position: relative;
+    z-index: 1;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+  }
+</style>
 
-## 📫 **Let's Connect**
-
-<div align="center">
-
-[![Email Shield](https://img.shields.io/badge/EMAIL-ryankipkorir2002%40gmail.com-important?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ryankipkorir2002@gmail.com)](mailto:ryankipkorir2002@gmail.com)  
-*(Click the badge to email me directly!)*  
-
+<div class="wave"></div>
+<div class="content">
+  <h1>RedRedRyan</h1>
+  <p>Developer | Creator | Explorer</p>
+  <p>Check out my repositories for more!</p>
 </div>
