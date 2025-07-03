@@ -6,12 +6,13 @@
 <details open>
     <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
     <p align="center"> Student  <img src="./Image/cat-coder.gif" width="30px"> from Nairobi Kenya.</p>
+    <p>ryankipkorir2002@gmail.com</p>
     <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
     <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
     <ul>
         <li><a><img alt="GIF" src="./Image/books.gif" width="30px"/>&nbsp; I am a  student, studying Math and Computer Sci.</a></li><br>
         <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp;  I actively participate in IT events.</a></li><br>
-        <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; I am actively involved in sports.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; I like playing games.</a></li><br>
         <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new.</a></li><br>
     </ul>
 <br>
@@ -25,6 +26,7 @@
     <a href="https://www.x.com/drivinred" target="_blank">
     <img lign="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter"/>
     </a>
+    
 </div>
 <br>
 </details>  
