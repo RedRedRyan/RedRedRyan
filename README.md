@@ -5,11 +5,11 @@
 <br>
 <details open>
     <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
-    <p align="center"> I am an intern Data Scientist  <img src="./Image/cat-coder.gif" width="30px"> from Nairobi Kenya.</p>
+    <p align="center"> I am a final year student  <img src="./Image/cat-coder.gif" width="30px"> from Nairobi Kenya.</p>
     <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
     <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
     <ul>
-        <li><a><img alt="GIF" src="./Image/books.gif" width="30px"/>&nbsp; I am a college student, studying to be a programmer.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/books.gif" width="30px"/>&nbsp; I am a c student, studying Math and Computer Sci.</a></li><br>
         <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp;  I actively participate in IT events.</a></li><br>
         <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; I am actively involved in sports.</a></li><br>
         <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new.</a></li><br>
@@ -33,9 +33,9 @@
 <div align="center">
     <p></p> 
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-    <a href="https://unity.com/" target="_blank"> <img alt="Unity" height ="42px"  src="https://en.m.wikipedia.org/wiki/Unity_(game_engine)#/media/File%3AUnity_2021.svg" /></a> 
+    <a href="https://unity.com/" target="_blank"> <img alt="Unity" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" /></a> 
     <a href="https://git-scm.com/" target="_blank"> <img alt="GIT" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img alt="C sharp" height="42px"  src="https://en.m.wikipedia.org/wiki/C_Sharp_(programming_language)#/media/File%3AC_Sharp_Logo_2023.svg" /></a> 
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img alt="C sharp" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" /></a> 
     <a href="https://www.r-project.org/" target="_blank"> <img alt="R" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" /></a>
      <a href="https://www.linux.org/" target="_blank"> <img alt="Linux" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
        
