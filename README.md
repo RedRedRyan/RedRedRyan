@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F0040D&height=70&section=header"/>
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Kirill" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=F0040D&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Ryan" alt="Typing SVG" /></a>
 </div> 
 <br>
 <details open>
@@ -36,7 +36,7 @@
     <a href="https://matplotlib.org/" target="_blank"> <img alt="matplotlib" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" /></a> 
     <a href="https://git-scm.com/" target="_blank"> <img alt="GIT" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
     <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img alt="C sharp" height="42px"  src="../RedRedRyan/Image/csharp.svg" /></a> 
-    <a href="https://www.r-project.org/" target="_blank"> <img alt="R" height="42px"  src="../RedRedRyan/Image/r-lang.svg" /></a>
+    <a href="https://www.r-project.org/" target="_blank"> <img alt="R" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" /></a>
     <a href="https://catboost.ai/" target="_blank"> <img alt="CatBoost" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" /></a>
      <a href="https://www.linux.org/" target="_blank"> <img alt="Linux" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
        
@@ -69,7 +69,6 @@
 <!--       <img src="https://wakatime.com/share/@K1rsN7/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
   </div>
   <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=K1rsN7&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
   <a href="https://github.com/RedRedRyan/RedRedRyan"><img alt="Red's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=RedRedRyan&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
 
@@ -82,7 +81,7 @@
 </details>
 <div align="center">
 <br>
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=F0040D&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F0040D&height=70&section=footer"/>
