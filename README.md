@@ -33,11 +33,10 @@
 <div align="center">
     <p></p> 
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-    <a href="https://matplotlib.org/" target="_blank"> <img alt="matplotlib" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" /></a> 
+    <a href="https://unity.com/" target="_blank"> <img alt="Unity" height ="42px"  src="https://en.m.wikipedia.org/wiki/Unity_(game_engine)#/media/File%3AUnity_2021.svg" /></a> 
     <a href="https://git-scm.com/" target="_blank"> <img alt="GIT" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img alt="C sharp" height="42px"  src="../RedRedRyan/Image/csharp.svg" /></a> 
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img alt="C sharp" height="42px"  src="https://en.m.wikipedia.org/wiki/C_Sharp_(programming_language)#/media/File%3AC_Sharp_Logo_2023.svg" /></a> 
     <a href="https://www.r-project.org/" target="_blank"> <img alt="R" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" /></a>
-    <a href="https://catboost.ai/" target="_blank"> <img alt="CatBoost" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" /></a>
      <a href="https://www.linux.org/" target="_blank"> <img alt="Linux" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
        
 </div>
